@@ -17965,7 +17965,7 @@ div.u-video,
   display: flex;
 }
 .u-enable-responsive .u-nav-container {
-  display: none;
+  display: block;
 }
 .u-enable-responsive .u-menu-close {
   z-index: 1;
