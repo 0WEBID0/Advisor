@@ -234,14 +234,4 @@
     width: 320px;
     height: 320px;
   }
-}@font-face {
-  font-family: 'GothamBold';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/GothamBold.otf);
-}@font-face {
-  font-family: 'GothamRegular';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/GothamRegular.otf);
 }

@@ -240,14 +240,4 @@
     margin-left: 0;
     margin-right: 0;
   }
-}@font-face {
-  font-family: 'GothamBold';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/GothamBold.otf);
-}@font-face {
-  font-family: 'GothamRegular';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/GothamRegular.otf);
 }

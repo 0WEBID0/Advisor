@@ -25670,7 +25670,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: GothamRegular;
+  font-family: Roboto,sans-serif;
 }
 h1,
 h2,
@@ -25678,7 +25678,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: GothamBold;
+  font-family: Roboto,sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -25699,10 +25699,10 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: GothamRegular !important;
+  font-family: Roboto,sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: GothamBold !important;
+  font-family: Roboto,sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -44686,13 +44686,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 140px;
+  min-height: 173px;
 }
 
 .u-header .u-image-1 {
-  width: 98px;
-  height: 140px;
-  margin: 1px auto 0 55px;
+  width: 122px;
+  height: 173px;
+  margin: 0 auto 0px 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -44706,11 +44706,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-2 {
-  min-height: 106px;
+  min-height: 68px;
 }
 
 .u-header .u-menu-1 {
-  margin: 33px auto;
+  margin: 14px auto 13px;
 }
 
 .u-header .u-nav-1 {
@@ -44722,15 +44722,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 141px;
-  }
-
   .u-header .u-image-1 {
-    width: 98px;
-    height: 141px;
-    margin-bottom: 0;
-    margin-left: 55px;
+    width: 122px;
+    height: 174px;
+    margin: 0 auto 0 0;
   }
 }
 
@@ -44742,8 +44737,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 113px;
     height: 161px;
-    margin-top: 0;
-    margin-bottom: 0;
     margin-left: 58px;
   }
 }
@@ -44761,7 +44754,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 84px;
     height: 120px;
-    margin-left: 25px;
+    margin-left: -100px;
   }
 }
 @media (max-width: 767px) {
@@ -44779,7 +44772,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 94px;
     height: 133px;
-    margin-left: 30px;
+    margin-left: -200px;
   }
 }
 @media (max-width: 575px) {
