@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: none;
-  min-height: 874px;
+  min-height: 852px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -136,6 +136,10 @@
 }
 
 @media (max-width: 1399px) {
+   .u-section-1 {
+    min-height: 874px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
   }

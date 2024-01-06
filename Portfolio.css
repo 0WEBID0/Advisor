@@ -8,12 +8,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 1rem;
   letter-spacing: 4px;
   text-transform: uppercase;
   font-family: Raleway, sans-serif;
   font-weight: 700;
   width: 861px;
+  font-size: 6rem;
   margin: 60px auto 0;
 }
 
@@ -113,10 +113,6 @@
 }
 
 @media (max-width: 1399px) {
-  .u-section-1 .u-text-1 {
-    font-size: 6rem;
-  }
-
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
   }
